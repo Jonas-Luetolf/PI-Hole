@@ -1,0 +1,4 @@
+www.ads.google.com
+ads.google.com
+manifest.googlevideo.com
+www.manifest.googlevideo.com
