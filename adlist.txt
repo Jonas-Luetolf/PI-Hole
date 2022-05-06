@@ -2,3 +2,7 @@ www.ads.google.com
 ads.google.com
 manifest.googlevideo.com
 www.manifest.googlevideo.com
+stats.wp.com
+www.stats.wp.com
+samsungads.com
+www.samsungads.com
